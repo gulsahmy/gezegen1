@@ -1,0 +1,150 @@
+body{
+    
+}
+.arkafon{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+}
+
+#container{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.gunes{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    margin-top: 0;
+    border-radius: 50%;
+    padding: 10px;
+    object-fit: cover;
+}
+.gunes:hover{
+    width: 300px;
+    height: 300px;
+    
+    
+
+}
+
+
+.merkur{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    /* margin-top: 400px; */
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 50%;
+    padding: 10px;
+    object-fit: cover;
+}
+.merkur:hover{
+    width: 200px;
+    height: 200px;
+}
+
+.venus{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    margin-left: 1250px;
+    margin-top: 400px;
+    border-radius: 50%;
+    padding: 10px;
+    object-fit: cover;
+}
+.venus:hover{
+    width: 200px;
+    height: 200px;
+}
+.dunya{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 900px;
+    border-radius: 50%;
+    padding: 10px;
+    object-fit: cover;
+}
+.dunya:hover{
+    width: 250px;
+    height: 250px;
+}
+.mars{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-top: 400px;
+    margin-left: 300px;
+    border-radius: 50%;
+    padding: 10px;
+    object-fit: cover;
+}
+.mars:hover{
+    width: 150px;
+    height: 150px;
+}
+.jupiter{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    margin-left: 50px;
+    margin-top: 500px;
+    border-radius: 50%;
+    padding: 10px;
+    object-fit: cover;
+}
+.jupiter:hover{
+    width: 450px;
+    height: 450px;
+}
+.saturn{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    margin-left: 1200px;
+    border-radius: 50%;
+    padding: 10px;
+    object-fit: cover;
+}
+.saturn:hover{
+    width: 400px;
+    height: 400px;
+}
+.uranus{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    /* margin-left: 1250px;
+    margin-top: 600px; */
+    border-radius: 50%;
+    padding: 10px;
+    object-fit: cover;
+}
+.uranus:hover{
+    width: 350px;
+    height: 350px;
+}
+.neptun{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    /* margin-top: 10px;
+    margin-left: 915px; */
+    border-radius: 50%;
+    padding: 10px;
+    object-fit: cover;
+    margin-left: 1310px;
+    margin-top: 600px;
+}
+.neptun:hover{
+    width: 300px;
+    height: 300px;
+}
+
+    
